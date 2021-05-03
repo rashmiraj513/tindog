@@ -139,6 +139,20 @@ h3 {
     text-align: center;
 }
 
+@media (max-width: 1028px) {
+
+    #title {
+        text-align: center;
+    }
+
+    .title-image {
+        position: static;
+        transform: rotate(0);
+        width: 100%;
+        height: 100%;
+    }
+}
+
 /* CTA Section */
 
 #cta {
