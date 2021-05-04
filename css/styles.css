@@ -60,7 +60,7 @@ h3 {
 
 .title-image {
     width: 22%;
-    height: 80%;
+    height: 95%;
     transform: rotate(25deg);
     position: absolute;
     right: 18%;
@@ -109,6 +109,10 @@ h3 {
     width: 20%;
     border-radius: 100%;
     padding: 10px;
+}
+
+.testimonial-text {
+    font-weight: normal !important;
 }
 
 .carousel-item {
